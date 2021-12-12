@@ -12,5 +12,7 @@ ensemble된 결과가 나오게 됩니다.
 
 https://drive.google.com/file/d/1huhvgX62MhvXMKiGGyRVWcDzUTjGgRuU/view?usp=sharing
 
-
 단일 모델로 처음부터 학습시킬 경우, main_resnet.py를 실행하여 학습 시킬 수 있습니다.
+
+아래 링크는 실험한 결과물 (그래프 및 가중치) 입니다.
+https://drive.google.com/drive/folders/1xfHbKCepTt6ahzcTcvitX3usLwmTe61P?usp=sharing
