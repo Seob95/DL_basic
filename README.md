@@ -12,3 +12,5 @@ ensemble된 결과가 나오게 됩니다.
 https://drive.google.com/drive/folders/1E1eBGglgdJ9EORYAy7tZNP1WRs3dkqcZ?usp=sharing, 
 https://drive.google.com/drive/folders/1ukhNzqETC3mSGm1pq1V0KXyPMoxqSL5x?usp=sharing, 
 https://drive.google.com/drive/folders/1zdQ8TZIc_sTD0MkzIMhUQbvc_xWq5ze-?usp=sharing
+
+단일 모델로 처음부터 학습시킬 경우, main_resnet.py를 실행하여 학습 시킬 수 있습니다.
