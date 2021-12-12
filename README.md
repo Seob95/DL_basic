@@ -7,7 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/84330101/145714527-04608d90-4a8b-4e4a-a04d-7c247f740fae.png)
 
-아래의 링크는 학습된 가중치이며 이를 다운받아 압축을 풀고, 
+아래의 링크는 학습된 가중치이며 이를 다운받아 압축을 풀고,
+
 ensemble.py와 같은 경로상에 위치시키고 ensemble.py를 실행시키면 ensemble된 결과가 나오게 됩니다.
 
 https://drive.google.com/file/d/1huhvgX62MhvXMKiGGyRVWcDzUTjGgRuU/view?usp=sharing
